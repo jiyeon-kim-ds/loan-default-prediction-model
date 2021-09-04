@@ -29,7 +29,7 @@
 
 ## 머신러닝 결과 및 개선점
 
-![AUC Score : 0.62](/Users/jiyeonkim/Downloads/roc curve.png "AUC Score : 0.62") 
+![roc curve](https://user-images.githubusercontent.com/66771425/132081544-fe350438-729e-4b75-807f-4e7424d5f1df.png)
 
 AUC Score : 0.62
 
